@@ -1,3 +1,4 @@
+License changed
 Aseprite uses the following open source projects:
 
 # [Allegro 4](http://liballeg.org/)
